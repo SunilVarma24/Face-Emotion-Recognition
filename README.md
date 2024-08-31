@@ -8,13 +8,13 @@ Facial emotion recognition is a critical component in human-computer interaction
 
 ## Dataset
 The model is trained on the RAF-DB (Real-world Affective Faces Database) dataset, which contains thousands of annotated facial images categorized into seven emotion classes:
-- **Anger**
+- **Angry**
 - **Disgust**
 - **Fear**
-- **Happiness**
-- **Sadness**
-- **Surprise**
+- **Happy**
 - **Neutral**
+- **Sad**
+- **Surprise**
 
 The dataset is preprocessed to normalize the images and prepare them for training.
 
